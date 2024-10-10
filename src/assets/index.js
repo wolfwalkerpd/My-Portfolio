@@ -35,7 +35,7 @@ import unknownIcon from "./icon.png"
 
 import carrent from "./carrent.png";
 import LiveDoc from "./LiveDoc.png";
-import carePulse from "./carePulse.png";
+import carepulse from "./carePulse.png";
 import WeBuild from "./WeBuildWeb.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -52,7 +52,7 @@ export {
   css,
   docker,
   figma,
-  carePulse,
+  carepulse,
   WeBuild,
   LiveDoc,
   git,
