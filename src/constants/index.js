@@ -19,7 +19,7 @@ import {
   editor,
   graphicdesign,
   frontend,
-  carePulse,
+  carepulse,
   unknownIcon,
   backend,
   meta,
