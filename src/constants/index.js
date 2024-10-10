@@ -261,7 +261,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carePulse,
+    image: carepulse,
     source_code_link: "https://github.com/wolfwalkerpd/Hospital-appointment",
   },
 ];
